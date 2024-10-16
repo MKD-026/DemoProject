@@ -5,10 +5,9 @@ This repository contains the codes for a product prototype aimed at helping peop
 ---
 ## Contents:
 1. Description
-2. Installation requirements and steps
-3. Files
-4. Model accuracy
-5. Contact
+2. Installation requirements
+3. Intuition
+4. Contact
 
 ---
 ### 1.Description:
