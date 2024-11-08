@@ -1,5 +1,5 @@
 # SmartVision: A Computer Vision based solution to find items in indoor environments. 
-
+![Demo-pic](./assets/smartvision.jpeg)
 This repository contains the codes for a product prototype aimed at helping people locate misplaced items in a confined and indoor environments. It consists of a wall mounted camera, object detection software and a voice assistant enable application for easy accessibility.
 
 ---
